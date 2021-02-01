@@ -1,13 +1,8 @@
-#define _CRT_SECURE_NO_WARNINGS 1
+#define _CRT_SECURE_NO_WARNINGS 
 
 #include"game.h"
 
 int main(){
-	//int row = ROW;
-	//int col = COL;
-	//char board[ROW][COL];
-	//initBoard(row, col, board);
-	//printBoard(row, col, board);
 	int choice = 0;
 	do{
 		menu();
